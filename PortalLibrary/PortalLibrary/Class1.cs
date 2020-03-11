@@ -8,5 +8,10 @@ namespace PortalLibrary
         {
 
         }
+
+        public void MethodOne()
+        {
+
+        }
     }
 }
